@@ -1,0 +1,8 @@
+name: Feature
+title: "feat: "
+labels: ["feat"]
+
+body:
+  - type: textarea
+    attributes:
+      label: What do you want to build?
